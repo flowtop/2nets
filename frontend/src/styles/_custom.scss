@@ -1,0 +1,20 @@
+body {
+	--main-bg: rgb(255, 255, 255);
+	--color: rgb(32, 32, 32);
+	--border: rgb(225, 225, 225);
+	--card: rgb(247, 247, 247);
+	--card-light: rgba(235, 235, 235, 0.703);
+
+	--accent: rgb(249, 0, 67);
+}
+
+@media (prefers-color-scheme: dark) {
+
+	body {
+		--color: rgb(255, 255, 255);
+		--main-bg: rgb(18, 18, 18);
+		--border: rgb(113, 113, 113);
+		--card: rgb(24, 24, 24);
+		--card-light: rgba(30, 30, 30, 0.8);
+	}
+}

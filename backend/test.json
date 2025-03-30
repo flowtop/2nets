@@ -1,0 +1,442 @@
+{
+    "meta": {
+        "api_version": "3.0.18718",
+        "code": 200,
+        "issue_date": "20250330"
+    },
+    "result": {
+        "items": [
+            {
+                "address_comment": "2 этаж",
+                "address_name": "улица 1 Мая, 160",
+                "external_content": [
+                    {
+                        "count": 143,
+                        "main_photo_url": "https://i5.photo.2gis.com/main/branch/23/70000001045327661/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 9,
+                        "main_photo_url": "https://i3.photo.2gis.com/main/geo/23/3237597887442830/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "70000001045327661",
+                "name": "Сицилия, семейная пиццерия",
+                "reviews": {
+                    "general_rating": 4.4,
+                    "general_review_count": 432,
+                    "general_review_count_with_stars": 579,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "rating": 4.8,
+                            "review_count": 4,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.5,
+                    "org_review_count": 2913,
+                    "org_review_count_with_stars": 3868,
+                    "rating": 4.8,
+                    "review_count": 4
+                },
+                "type": "branch"
+            },
+            {
+                "address_comment": "1 этаж",
+                "address_name": "улица 1 Мая, 101",
+                "external_content": [
+                    {
+                        "count": 72,
+                        "main_photo_url": "https://i5.photo.2gis.com/main/branch/23/70000001059684994/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 2,
+                        "main_photo_url": "https://i9.photo.2gis.com/main/geo/23/70030076157369954/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "70000001059684994",
+                "name": "Уни, пиццерия",
+                "reviews": {
+                    "general_rating": 3.9,
+                    "general_review_count": 290,
+                    "general_review_count_with_stars": 405,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "rating": 3.5,
+                            "review_count": 2,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4,
+                    "org_review_count": 1252,
+                    "org_review_count_with_stars": 1779,
+                    "rating": 3.5,
+                    "review_count": 2
+                },
+                "type": "branch"
+            },
+            {
+                "address_comment": "2 этаж",
+                "address_name": "улица 1 Мая, 214",
+                "external_content": [
+                    {
+                        "count": 152,
+                        "main_photo_url": "https://i8.photo.2gis.com/main/branch/23/3237490513642132/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 1,
+                        "main_photo_url": "https://i1.photo.2gis.com/main/geo/23/3237597887450116/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "3237490513642132",
+                "name": "Зелёный кот, кафе-бар",
+                "reviews": {
+                    "general_rating": 4.7,
+                    "general_review_count": 270,
+                    "general_review_count_with_stars": 354,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "rating": 4.7,
+                            "recommendation_count": 5,
+                            "review_count": 41,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.7,
+                    "org_review_count": 270,
+                    "org_review_count_with_stars": 354,
+                    "rating": 4.7,
+                    "recommendation_count": 5,
+                    "review_count": 41
+                },
+                "type": "branch"
+            },
+            {
+                "address_name": "улица им. 40-летия Победы, 172/3",
+                "external_content": [
+                    {
+                        "count": 117,
+                        "main_photo_url": "https://i3.photo.2gis.com/main/branch/23/70000001078541896/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 2,
+                        "main_photo_url": "https://i6.photo.2gis.com/main/geo/23/70030076457981455/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "70000001078541896",
+                "name": "Анор-анор, чайхана",
+                "reviews": {
+                    "general_rating": 4.8,
+                    "general_review_count": 596,
+                    "general_review_count_with_stars": 6725,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "rating": 4,
+                            "review_count": 1,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.7,
+                    "org_review_count": 3225,
+                    "org_review_count_with_stars": 13604,
+                    "rating": 4,
+                    "review_count": 1
+                },
+                "type": "branch"
+            },
+            {
+                "address_name": "улица Восточно-Кругликовская, 44",
+                "external_content": [
+                    {
+                        "count": 61,
+                        "main_photo_url": "https://i9.photo.2gis.com/main/branch/23/3237490513289826/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    }
+                ],
+                "full_name": "Краснодар, улица Восточно-Кругликовская, 44 / улица им. 40-летия Победы, 170",
+                "id": "3237490513289826",
+                "name": "Парус, кафе",
+                "purpose_name": "Кафе, бар",
+                "reviews": {
+                    "general_rating": 3.2,
+                    "general_review_count": 70,
+                    "general_review_count_with_stars": 93,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "rating": 4.2,
+                            "recommendation_count": 1,
+                            "review_count": 5,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 3.2,
+                    "org_review_count": 70,
+                    "org_review_count_with_stars": 93,
+                    "rating": 4.2,
+                    "recommendation_count": 1,
+                    "review_count": 5
+                },
+                "type": "branch"
+            },
+            {
+                "address_comment": "2 этаж",
+                "address_name": "улица 1 Мая, 168",
+                "external_content": [
+                    {
+                        "count": 70,
+                        "main_photo_url": "https://i7.photo.2gis.com/main/branch/23/3237491513620257/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 1,
+                        "main_photo_url": "https://i5.photo.2gis.com/main/geo/23/3237597887448890/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "3237491513620257",
+                "name": "Prima vera, кафе",
+                "reviews": {
+                    "general_rating": 4.7,
+                    "general_review_count": 191,
+                    "general_review_count_with_stars": 230,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "rating": 3.7,
+                            "review_count": 6,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.6,
+                    "org_review_count": 298,
+                    "org_review_count_with_stars": 351,
+                    "rating": 3.7,
+                    "review_count": 6
+                },
+                "type": "branch"
+            },
+            {
+                "address_comment": "1 этаж",
+                "address_name": "улица им. 40-летия Победы, 172/1",
+                "external_content": [
+                    {
+                        "count": 8,
+                        "main_photo_url": "https://i0.photo.2gis.com/main/branch/23/70000001092849991/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 9,
+                        "main_photo_url": "https://i5.photo.2gis.com/main/geo/23/3237597887489947/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "70000001092849991",
+                "name": "ПРОСУШИ, ресторан паназиатской и европейской кухни",
+                "reviews": {
+                    "general_rating": 4.7,
+                    "general_review_count": 51,
+                    "general_review_count_with_stars": 62,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.2,
+                    "org_review_count": 3423,
+                    "org_review_count_with_stars": 3789
+                },
+                "type": "branch"
+            },
+            {
+                "address_name": "улица Восточно-Кругликовская, 46/11",
+                "external_content": [
+                    {
+                        "count": 36,
+                        "main_photo_url": "https://i7.photo.2gis.com/main/branch/23/70000001079971984/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 3,
+                        "main_photo_url": "https://i4.photo.2gis.com/main/geo/23/3237597887444820/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "70000001079971984",
+                "name": "Вкусные истории, кафе-кулинария",
+                "reviews": {
+                    "general_rating": 4.7,
+                    "general_review_count": 71,
+                    "general_review_count_with_stars": 83,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.7,
+                    "org_review_count": 71,
+                    "org_review_count_with_stars": 83
+                },
+                "type": "branch"
+            },
+            {
+                "address_name": "улица 1 Мая, 155/1",
+                "external_content": [
+                    {
+                        "count": 9,
+                        "main_photo_url": "https://i9.photo.2gis.com/main/branch/23/3237490513307311/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    }
+                ],
+                "full_name": "Краснодар, улица 1 Мая, 155/1",
+                "id": "3237490513307311",
+                "name": "Околица, кафе",
+                "purpose_name": "Кафе, бар",
+                "reviews": {
+                    "general_rating": 4.6,
+                    "general_review_count": 43,
+                    "general_review_count_with_stars": 49,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "rating": 1,
+                            "review_count": 1,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.6,
+                    "org_review_count": 43,
+                    "org_review_count_with_stars": 49,
+                    "rating": 1,
+                    "review_count": 1
+                },
+                "type": "branch"
+            },
+            {
+                "address_comment": "цокольный этаж",
+                "address_name": "улица им. 40-летия Победы, 178/1",
+                "external_content": [
+                    {
+                        "count": 194,
+                        "main_photo_url": "https://i1.photo.2gis.com/main/branch/23/70000001043730278/common",
+                        "subtype": "common",
+                        "type": "photo_album"
+                    },
+                    {
+                        "count": 2,
+                        "main_photo_url": "https://i2.photo.2gis.com/main/geo/23/70030076143901358/view",
+                        "subtype": "view",
+                        "type": "photo_album"
+                    }
+                ],
+                "id": "70000001043730278",
+                "name": "Jack jack, служба доставки готовых блюд",
+                "reviews": {
+                    "general_rating": 3.9,
+                    "general_review_count": 564,
+                    "general_review_count_with_stars": 609,
+                    "is_reviewable": true,
+                    "is_reviewable_on_flamp": true,
+                    "items": [
+                        {
+                            "is_reviewable": true,
+                            "tag": "2gis_reviews"
+                        },
+                        {
+                            "is_reviewable": true,
+                            "tag": "flamp"
+                        }
+                    ],
+                    "org_rating": 4.4,
+                    "org_review_count": 1229,
+                    "org_review_count_with_stars": 1314
+                },
+                "type": "branch"
+            }
+        ],
+        "total": 314
+    }
+}

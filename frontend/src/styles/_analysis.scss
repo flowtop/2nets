@@ -1,0 +1,159 @@
+// <div key={i} className="analysis__list-card">
+// <div className="card__img">
+//     <img src="https://i3.photo.2gis.com/main/branch/23/70000001045682696/common" />
+// </div>
+// <div className="card__about">
+//     <h2 className="card__about-name">
+//     Заголовок
+//     </h2>
+//     <div className="card__about-name">
+//     Адрес, 123, подадрес 2
+//     </div>
+//     <div className="card__about-smm">
+//     <InstagramIcon />
+//     <VkIcon />
+//     <TelegramIcon />
+//     </div>
+// </div>
+
+// </div>
+
+.tab__analysis {
+	padding-top: 3rem;
+
+	@media (max-width: 540px) {
+		padding-bottom: 6rem;
+	}
+
+	.analysis__list {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 2rem;
+
+		padding-bottom: 4rem;
+
+		@media (max-width: 540px) {
+			&-card {
+				flex-direction: column;
+
+				.card__img {
+					width: 100% !important;
+					min-height: 10rem;
+					max-height: 30rem;
+					
+					img {
+						border-radius: 8px !important;
+					}
+				}
+			}
+		}
+
+		&-card {
+			display: flex;
+			flex-grow: 1;
+			width: 400px;
+
+			background-color: var(--card);
+			border-radius: 8px;
+
+			.card__img {
+				width: 14rem;
+				height: 100%;
+
+				img {
+					display: flex;
+
+					height: 100%;
+					width: 100%;
+
+					object-fit: cover;
+					object-position: center;
+
+					border-radius: 8px;
+					border-bottom-right-radius: 0;
+					border-top-right-radius: 0;
+				}
+			}
+
+			.card__about {
+				display: flex;
+				flex-direction: column;
+
+				flex-grow: 1;
+
+				&-top {
+					width: 100%;
+					border-bottom: 1px solid var(--color);
+
+					padding: 2rem;
+
+					display: flex;
+					flex-direction: column;
+					gap: 0.4rem;
+				}
+
+				&-name {
+					font-size: 2rem;
+				}
+				&-address {
+					font-size: 1.4rem;
+
+					display: flex;
+					align-items: center;
+					gap: 2rem;
+				}
+				&-ratio {
+					background-color: var(--border);
+					border-radius: 4px;
+
+					padding: 0.6rem 0.8rem;
+					font-weight: 500;
+
+				}
+
+				&-bottom {
+					display: flex;
+					gap: 1.4rem;
+
+					padding: 2rem;
+
+					svg {
+						height: 3.4rem;
+					}
+
+					.vk_icon {
+						fill: #46a3e6;				
+						height: 5rem;
+					}
+					.telegram_icon {
+						fill: #46a3e6;
+						height: 5rem;
+					}
+
+					.twogis_rating,
+					.additional_rating {
+						display: flex;
+						align-items: center;
+						gap: 1rem;
+
+						font-size: 1.6rem;
+						font-weight: 700;
+
+						padding: 0.6rem 1.4rem;
+						border-radius: 4px;
+
+						background-color: var(--card-light);
+					}
+					.additional_rating svg {
+						fill: rgb(15, 207, 15);
+						width: 4rem;
+					}
+				}
+				&-smm {
+					display: flex;
+					gap: 1.2rem;
+				}
+			}
+		}
+	}
+}
